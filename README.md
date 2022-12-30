@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luis Rodríguez
-- 👀 I’m interested in Python, cloud dev, scripting and networking architecture 
+- 👀 I’m interested in Azure, Python, Dev, Scripting and Networking Architecture 
 - 🌱 I’m currently learning Terraform
 
 [![Twitter: luismisanrod](https://img.shields.io/twitter/follow/luismisanrod?style=social)](https://twitter.com/luismisanrod)
