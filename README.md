@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @luisrodriguez-MSIT
-- 👀 I’m interested in cloud dev
-- 🌱 I’m currently learning terraform 
-- 💞️ I’m looking to collaborate on everything i can
-- 📫 How to reach me ...
+- 👋 Hi, I’m Luis Rodríguez
+- 👀 I’m interested in Python, cloud dev, scripting and networking architecture 
+- 🌱 I’m currently learning Terraform
+- 💞️ I’m looking to collaborate on everything related to Azure, Networking and IaC.
+
+[![Twitter: luismisanrod](https://img.shields.io/twitter/follow/luismisanrod?style=social)](https://twitter.com/luismisanrod)
+[![Linkedin: luissanmartinrodriguez](https://img.shields.io/badge/-luissanmartinrodriguez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luissanmartinrodriguez/)](https://www.linkedin.com/in/luissanmartinrodriguez/)
 
 <!---
 luisrodriguez-MSIT/luisrodriguez-MSIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
