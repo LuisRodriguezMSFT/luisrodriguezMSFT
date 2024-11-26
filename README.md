@@ -2,7 +2,6 @@
 - 👀 I’m interested in Azure, Python, Dev, Scripting and Networking Architecture 
 - 🌱 I’m currently learning Terraform
 
-[![Twitter: luismisanrod](https://img.shields.io/twitter/follow/luismisanrod?style=social)](https://twitter.com/luismisanrod)
 [![Linkedin: luissanmartinrodriguez](https://img.shields.io/badge/-luissanmartinrodriguez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luissanmartinrodriguez/)](https://www.linkedin.com/in/luissanmartinrodriguez/)
 
 <!---
